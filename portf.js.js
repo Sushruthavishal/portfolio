@@ -42,7 +42,7 @@ $(document).ready(function () {
       strings: [
         "Software Developer",
         "Python Developer",
-        "Data Enalyst",
+        "Data Analyst",
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -54,7 +54,7 @@ $(document).ready(function () {
         
         "Software Developer",
         "Python Developer",
-        "Data Enalyst",
+        "Data Analyst",
       ],
       typeSpeed: 100,
       backSpeed: 60,
